@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Q-ssi
+- 👋 Hi, I’m Q-ssi
 - 👀 I’m interested in .Net and Azure Cloud
 - 🌱 I’m currently learning Azure Cloud and REACT
 - 📫 How to reach me ...
